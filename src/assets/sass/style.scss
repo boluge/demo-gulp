@@ -1,0 +1,21 @@
+// 	Load foundation
+@import 'foundation';
+
+//	Variables
+$primary: #08C;
+$secondary: #bada55;
+
+$txt: #f6f5f4;
+$bg: $txt;
+
+//	Layout
+body {
+	background: $bg;
+}
+
+.slider {
+	background: $primary;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-bottom: 15px;
+}
